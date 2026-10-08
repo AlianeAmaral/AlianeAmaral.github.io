@@ -62,7 +62,7 @@ const DADOS = {
 
   stacks: [
     { grupo:"Back-end", icone:"door", itens:["Java 8, 11 e 21","Spring Boot","Spring Data JPA","Hibernate","QueryDSL","Lombok","Node.js","APIs RESTful","RabbitMQ","Microsserviços"] },
-    { grupo:"Front-end", icone:"layout", itens:["Angular","AngularJS","React","Next.js","Vue.js","TypeScript","JavaScript","HTML","CSS","Tailwind CSS","Bootstrap","Kendo UI","jQuery"] },
+    { grupo:"Front-end", icone:"layout", itens:["Angular","AngularJS","React","Next.js","Vue.js","JavaScript","HTML","CSS","Tailwind CSS","Bootstrap","Kendo UI","jQuery"] },
     { grupo:"Mobile", icone:"phone", itens:["React Native","Expo","TypeScript"] },
     { grupo:"Banco de dados", icone:"db", itens:["PostgreSQL","MongoDB","Flyway","Liquibase"] },
     { grupo:"Testes", icone:"check", itens:["JUnit","Mockito","Jasmine","Karma"] },
