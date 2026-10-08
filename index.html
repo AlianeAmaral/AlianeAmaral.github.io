@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Aliane Amaral | Desenvolvedora Full-stack</title>
+  <meta name="description" content="Aliane Amaral, desenvolvedora full-stack web e mobile. Java, Spring Boot, Angular, React, Vue.js e React Native.">
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Dancing+Script:wght@500;600&family=Jost:wght@300;400;500;600&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/data.js" defer></script>
+  <script src="js/icons.js" defer></script>
+  <script src="js/utils.js" defer></script>
+  <script src="js/theme.js" defer></script>
+  <script src="js/render.js" defer></script>
+  <script src="js/typing.js" defer></script>
+  <script src="js/sky.js" defer></script>
+  <script src="js/effects.js" defer></script>
+  <script src="js/wander.js" defer></script>
+</head>
+<body>
+<canvas id="sky" aria-hidden="true"></canvas>
+<canvas id="wander" aria-hidden="true"></canvas>
+
+<header>
+  <nav aria-label="Seções">
+    <ul>
+      <li><a href="#projetos">Projetos</a></li>
+      <li><a href="#stacks">Stacks</a></li>
+      <li><a href="#cursos">Cursos</a></li>
+      <li><a href="#trajetoria">Trajetória</a></li>
+      <li><a href="#contato">Contato</a></li>
+    </ul>
+  </nav>
+  <button class="theme-btn" id="themeBtn" type="button"></button>
+</header>
+
+<main>
+  <section class="hero" id="inicio">
+    <div>
+      <p class="hello">Olá, eu sou</p>
+      <div class="name-wrap">
+        <h1 class="name">Aliane Amaral</h1>
+        <span class="quill-x" aria-hidden="true"><span class="quill"></span></span>
+      </div>
+      <p class="role later d1">Desenvolvedora Full-stack<span>|</span>Web &amp; Mobile</p>
+      <p class="pitch later d2" id="pitch"></p>
+      <ul class="meta later d3" id="meta"></ul>
+      <div class="hero-cta later d4" id="heroCta"></div>
+    </div>
+
+    <div class="spell" aria-label="Resumo em código">
+      <div class="spell-head">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m8 7-5 5 5 5M16 7l5 5-5 5M13.5 4l-3 16"/></svg>
+      </div>
+      <pre id="code" aria-hidden="true"></pre>
+    </div>
+  </section>
+
+  <section class="block reveal" id="projetos">
+    <h2>Projetos</h2>
+    <div class="projects" id="projects"></div>
+  </section>
+
+  <section class="block reveal" id="como-trabalho">
+    <h2>Como eu trabalho</h2>
+    <p class="lede">O que levo para o time além de código.</p>
+    <div class="traits" id="traits"></div>
+  </section>
+
+  <section class="block reveal" id="stacks">
+    <h2>Stacks &amp; ferramentas</h2>
+    <p class="lede">Tecnologias e ferramentas com as quais tenho experiência.</p>
+    <div class="stack-grid" id="stackGrid"></div>
+  </section>
+
+  <section class="block reveal" id="cursos">
+    <h2>Cursos &amp; certificações</h2>
+    <ul class="courses" id="courses"></ul>
+  </section>
+
+  <section class="block reveal" id="trajetoria">
+    <h2>Trajetória</h2>
+    <p class="lede">Oito anos em tecnologia, do suporte ao desenvolvimento.</p>
+    <ol class="timeline" id="timeline"></ol>
+  </section>
+
+  <section class="block reveal contact" id="contato">
+    <div class="socials" id="socials"></div>
+  </section>
+</main>
+
+<footer>Feito por Aliane Amaral © <span id="year"></span> Todos os direitos reservados.</footer>
+
+</body>
+</html>
