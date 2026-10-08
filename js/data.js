@@ -87,7 +87,7 @@ const DADOS = {
     { quando:"Out 2024 a jun 2025", titulo:"Analista de Suporte Pleno / Sênior", onde:"AZ Tecnologia em Gestão",
       texto:"Estruturei os processos do suporte, iniciei a criação de uma base de conhecimento para clientes e o relatório mensal de indicadores." },
     { quando:"Ago 2018 a ago 2024", titulo:"Analista de Suporte", onde:"Unisys",
-      texto:"Suporte técnico para empresas de médio e grande porte, como Santander, Ri Happy, Xerox, ISA CTEEP e outras. Vivência com redes, servidores, VPN e ferramentas como Active Directory e ServiceNow. Reconhecida pela qualidade de atendimento." },
+      texto:"Suporte técnico para empresas de médio e grande porte, como Santander, Ri Happy, Xerox, ISA CTEEP e outras. Vivência com redes, servidores, VPN e ferramentas como Active Directory e ServiceNow. Reconhecida por qualidade de atendimento." },
     { quando:"Jul 2023 a dez 2026", titulo:"Análise e Desenvolvimento de Sistemas", onde:"PUC Minas", texto:"" }
   ]
 };
