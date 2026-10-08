@@ -1,7 +1,7 @@
 const DADOS = {
   curriculoPdf: "",
 
-  pitch: "Atuo no setor privado com foco em Java, Spring Boot e Angular. As experiências com Suporte Técnico e Customer Success me aproximaram de quem usa o produto, hoje isso me ajuda a contribuir positivamente em tarefas, passando de regras de negócio complexas para interfaces atrativas, claras e fáceis de usar, com qualidade técnica e entregas bem testadas.",
+  pitch: "Atuo no setor privado com foco em Java, Spring Boot e Angular. As experiências com Suporte Técnico e Customer Success me aproximaram de quem usa o produto, hoje isso me ajuda a contribuir positivamente em tarefas, transitando de regras de negócio complexas para interfaces atrativas, claras e fáceis de usar, com qualidade técnica e entregas bem testadas.",
 
   meta: [
     { icone:"pin",  texto:"Campo Grande, MS" },
