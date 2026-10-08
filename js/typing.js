@@ -7,7 +7,7 @@
     ["v","  backend"],["p",": ["],["s",'"Java"'],["p",", "],["s",'"Spring Boot"'],["p",", "],["s",'"Node.js"'],["p","],\n"],
     ["v","  frontend"],["p",": ["],["s",'"Angular"'],["p",", "],["s",'"React"'],["p",", "],["s",'"Vue.js"'],["p","],\n"],
     ["v","  mobile"],["p",": ["],["s",'"React Native"'],["p",", "],["s",'"Expo"'],["p","],\n"],
-    ["v","  dados"],["p",": ["],["s",'"PostgreSQL"'],["p",", "],["p","],\n"],
+    ["v","  dados"],["p",": ["],["s",'"PostgreSQL"'],["p","],\n"],
     ["v","  deploy"],["p",": ["],["s",'"Docker"'],["p",", "],["s",'"Nginx"'],["p",", "],["s",'"CI/CD"'],["p","],\n"],
     ["v","  interesses"],["p",": "],["s",'"UI atrativa, animações e testes"'],["p",",\n"],
     ["p","};"]
