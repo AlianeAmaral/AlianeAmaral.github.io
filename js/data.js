@@ -19,7 +19,7 @@ const DADOS = {
     {
       status:"dev", destaque:true, icone:"cat",
       titulo:"Amicats",
-      descricao:"Sistema web e mobile para uma ONG de proteção felina, desenvolvido em equipe como trabalho de conclusão de curso para cliente real. Reúne a gestão dos gatinhos, o controle de saúde e as prescrições do médico veterinário.",
+      descricao:"Sistema web e mobile para uma ONG de proteção felina, desenvolvido em equipe como trabalho de conclusão de curso para cliente real. Reúne a gestão dos gatinhos, gestão de estoque, controle de saúde, prescrições veterinárias, relatórios e outros.",
       fiz:[
         "Back-end em Java e Spring Boot.",
         "Clean Architecture e migrations com Flyway.",
