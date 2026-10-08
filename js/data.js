@@ -61,12 +61,12 @@ const DADOS = {
   ],
 
   stacks: [
-    { grupo:"Back-end", icone:"door", itens:["Java 8, 11 e 21","Spring Boot","Spring Data JPA","Hibernate","QueryDSL","Lombok","Node.js","Entity Framework","APIs RESTful","Microsserviços","RabbitMQ"] },
+    { grupo:"Back-end", icone:"door", itens:["Java 8, 11 e 21","Spring Boot","Spring Data JPA","Hibernate","QueryDSL","Lombok","Node.js","Entity Framework","APIs RESTful","RabbitMQ","Microsserviços"] },
     { grupo:"Front-end", icone:"layout", itens:["Angular","AngularJS","React","Next.js","Vue.js","TypeScript","JavaScript","HTML","CSS","Tailwind CSS","Bootstrap","Kendo UI","jQuery"] },
     { grupo:"Mobile", icone:"phone", itens:["React Native","Expo","TypeScript"] },
-    { grupo:"Banco de dados", icone:"db", itens:["PostgreSQL","SQL Server","MongoDB","SQL","Flyway","Liquibase"] },
+    { grupo:"Banco de dados", icone:"db", itens:["PostgreSQL","MongoDB","Flyway","Liquibase"] },
     { grupo:"Testes", icone:"check", itens:["JUnit","Mockito","Jasmine","Karma"] },
-    { grupo:"Arquitetura", icone:"layers", itens:["Clean Architecture","Arquitetura Hexagonal","Injeção de Dependência","Mensageria","Integração com APIs externas"] },
+    { grupo:"Arquitetura", icone:"layers", itens:["Clean Architecture","Arquitetura Hexagonal","Mensageria","Integração com APIs Externas"] },
     { grupo:"Infra & deploy", icone:"server", itens:["Docker","Docker Compose","Nginx","Let's Encrypt","GitHub Actions","VPS Linux","AWS"] },
     { grupo:"Ferramentas", icone:"tool", itens:["Git","GitHub","IntelliJ IDEA","Maven","Postman","Jira","Linux"] }
   ],
